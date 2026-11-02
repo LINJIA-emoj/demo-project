@@ -9,6 +9,9 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
+  "dependencies": {
+    "echarts": "^5.6.0"
+  },
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "vite": "^5.4.0"
